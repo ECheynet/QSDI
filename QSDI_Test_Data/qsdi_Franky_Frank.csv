@@ -1,0 +1,42 @@
+item_number,item_text,Score_1_5__Never_notAtAll_1__Always_very_5_,scale_code,scale_name
+1,"My supervisor always cooperates, if I want something",3,CD,Helpful/Friendly
+2,"My supervisor humiliates me",1,OD,Admonishing
+3,"My supervisor acts unconvincingly regarding my initiatives",5,SO,Uncertain
+4,"My supervisor is quick to criticize me",2,DO,Strict
+5,"My supervisor is unclear during our conversations",4,SO,Uncertain
+6,"My supervisor trusts me",2,CS,Understanding
+7,"My supervisor disbelieves me",3,OS,Dissatisfied
+8,"My supervisor helps me",3,CD,Helpful/Friendly
+9,"My supervisor gives thorough feedback on my work",1,DC,Leadership
+10,"My supervisor has a bad temper during our discussions",5,OD,Admonishing
+11,"My supervisor is dissatisfied about my progress",4,OS,Dissatisfied
+12,"My supervisor follows my proposals",5,SC,Student Responsibility/Freedom
+13,"My supervisor anticipates possible misunderstandings between us",5,CD,Helpful/Friendly
+14,"My supervisor thinks I know nothing",3,OS,Dissatisfied
+15,"My supervisor is impatient towards me",5,OD,Admonishing
+16,"My supervisor is critical of my work",1,DO,Strict
+17,"My supervisor listens to me",1,CS,Understanding
+18,"My supervisor creates an atmosphere of ambiguity during our meeting",1,SO,Uncertain
+19,"My supervisor is strict when evaluating my progress",2,DO,Strict
+20,"My supervisor demands a lot from me",2,DO,Strict
+21,"My supervisor acts confidently when discussing my papers",2,DC,Leadership
+22,"My supervisor says that I am unskilled",5,OS,Dissatisfied
+23,"My supervisor always explains comprehensibly when I ask something",2,DC,Leadership
+24,"My supervisor gives me clear guidance",2,DC,Leadership
+25,"My supervisor thinks that I am dishonest",3,OS,Dissatisfied
+26,"My supervisor supports me",1,CD,Helpful/Friendly
+27,"My supervisor gives me a lot of advice",5,DC,Leadership
+28,"My supervisor is indecisive about my initiatives",1,SO,Uncertain
+29,"My supervisor acts professionally during our meetings",5,DC,Leadership
+30,"My supervisor reacts enthusiastically about my initiatives",4,CD,Helpful/Friendly
+31,"My supervisor acts irritable with me",1,OD,Admonishing
+32,"My supervisor is someone I can rely on",1,CD,Helpful/Friendly
+33,"My supervisor pays attention, if I have something to say",5,CS,Understanding
+34,"My supervisor is uncertain during our meetings",4,SO,Uncertain
+35,"My supervisor allows me to make my own decisions",4,SC,Student Responsibility/Freedom
+36,"My supervisor believes that I am untrustworthy",4,OS,Dissatisfied
+37,"My supervisor shares my sense of humor",1,CS,Understanding
+38,"My supervisor is timid in our discussions",2,SO,Uncertain
+39,"My supervisor lets me choose my own direction",1,SC,Student Responsibility/Freedom
+40,"My supervisor is easily impressed by me",5,SC,Student Responsibility/Freedom
+41,"My supervisor immediately corrects me if I do something wrong",4,DO,Strict
