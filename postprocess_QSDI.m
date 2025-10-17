@@ -15,7 +15,7 @@ function [summaryTable, promptText] = postprocess_QSDI(S, scale_labels)
 %                     and whether it's 'Agreement' or 'Difference'
 %     promptText    - preformatted text block for ChatGPT input
 
-    THRESH = 0.25;  % significance threshold
+    THRESH = 0.34;  % significance threshold
 
     sup = S(1,:);
     stu = S(2,:);
